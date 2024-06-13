@@ -2,5 +2,6 @@
 
 # Salvando alterações no Git
 
-*ALTERAÇÕES
+* comando git restore
 * comando git pull
+* comando git fetch
