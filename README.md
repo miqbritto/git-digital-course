@@ -1,3 +1,4 @@
 # git-digital-course
 
-#Gravando alterações
+# Salvando alterações no Git
+
